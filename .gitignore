@@ -1,3 +1,5 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea
+/Lesson_4.1.iml
+out
